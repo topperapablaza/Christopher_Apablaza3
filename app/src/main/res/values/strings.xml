@@ -1,0 +1,25 @@
+<resources>
+    <string name="ver_lista">Ver Lista</string>
+    <string name="boton_nuevo">Ingresar Nuevo</string>
+    <string name="boton_eliminar">Eliminar vehiculo</string>
+    <string name="boton_eliminarT">Eliminar todos los vehiculos</string>
+    <string name="ingresa">Ingrese un vehiculo a la lista</string>
+    <string name="ingresaModelo">Ingrese el modelo del vehiculo</string>
+    <string name="ingresaMatricula">Ingrese la matricula del vehiculo</string>
+    <string name="ingresaMarca">Ingrese la marca del vehiculo</string>
+    <string name="autoingresado">Ingresar auto</string>
+    <string name="ingresarMatricula">Ingrese la matricula del Vehiculo</string>
+    <string name="favorito">Vehiculo favorito</string>
+    <string name="mostrarModelo">Modelo:</string>
+    <string name="mostrarMarca">Marca:</string>
+    <string name="mostrarMatricula">Matricula:</string>
+    <string name="mostrarTipo">Tipo:</string>
+    <string name="mostrarEstado">Estado:</string>
+    <string-array name="tipo">
+        <item>Tipo</item>
+        <item>Auto</item>
+        <item>Moto</item>
+    </string-array>
+    <string name="estado">Favorito</string>
+
+</resources>
