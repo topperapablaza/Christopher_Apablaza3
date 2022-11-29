@@ -51,5 +51,13 @@ public class MainActivity extends AppCompatActivity {
                 Toast.makeText(MainActivity.this, "Se han eliminado todos los vehiculos", Toast.LENGTH_SHORT).show();
             }
         });
+        Button Mapa=(Button) findViewById(R.id.boton_mapa);
+        Mapa.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(MainActivity.this,MapaUmag.class);
+                startActivity(intent);
+            }
+        });
     }
 }

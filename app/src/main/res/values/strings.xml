@@ -1,4 +1,5 @@
 <resources>
+    <string name="app_name">Hola</string>
     <string name="ver_lista">Ver Lista</string>
     <string name="boton_nuevo">Ingresar Nuevo</string>
     <string name="boton_eliminar">Eliminar vehiculo</string>
@@ -15,11 +16,13 @@
     <string name="mostrarMatricula">Matricula:</string>
     <string name="mostrarTipo">Tipo:</string>
     <string name="mostrarEstado">Estado:</string>
+    <string name="boton_mapa">Ubicación Universidad</string>
     <string-array name="tipo">
         <item>Tipo</item>
         <item>Auto</item>
         <item>Moto</item>
     </string-array>
     <string name="estado">Favorito</string>
+    <string name="title_activity_mapa_umag">MapaUmag</string>
 
 </resources>
